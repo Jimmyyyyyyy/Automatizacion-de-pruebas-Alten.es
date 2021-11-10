@@ -4,18 +4,26 @@ Repositorio de la prueba de Automatización de pruebas - Alten.es de Jaime Suár
 
 ## 
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+## Tecnologías utilizadas
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 
-### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+### Pre-requisitos
 
-```
-Da un ejemplo
-```
+* Eclipse
+* Java 
+* Maven
+* Junit
+* Selenium 
+* HTML5
+* Google Chrome  
+* 
 
 ### Instalación 🔧
 
@@ -35,17 +43,20 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+## Tecnologías utilizadas
+* Python 3
+* Javascript
+* Jquery
+* PrismJS
+* Django 3
+* HTML5
+* CSS3 
+* Bootstrap 4
+* Ion Icons
+* Font awesome
+* CKEditor
+* SQLite
+* PostgreSQL
 
 ### Y las pruebas de estilo de codificación ⌨️
 
@@ -59,12 +70,5 @@ Da un ejemplo
 
 Trabajo realizado por Jaime Suárez González
 
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 
