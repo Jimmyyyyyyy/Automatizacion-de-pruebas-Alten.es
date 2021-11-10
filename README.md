@@ -1,8 +1,8 @@
 # Plan de pruebas - Alten
 
-Repositorio 
+Repositorio de la prueba de Automatización de pruebas - Alten.es de Jaime Suárez González.
 
-## +
+## 
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
@@ -55,9 +55,9 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-## Despliegue 📦
+## Autor
 
-_Agrega notas adicionales sobre como hacer deploy_
+Trabajo realizado por Jaime Suárez González
 
 ## Construido con 🛠️
 
