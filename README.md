@@ -31,7 +31,7 @@ hasta finalizar
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Estructura del proyecto
- .
+    .
     ├── Drivers                                # Chrome driver
     ├── ScreenShot_Folder                      # Capturas de pantallas automáticas
     ├── src                     
@@ -42,14 +42,6 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
     ├── pom.xml                               # Archivo de configuración Modelo Base Page Object 
     └── README.md
 
-#!/bin/bash
-
-#File: tree-md
-
-tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
-       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
-
-printf "# Project tree\n\n${tree}"
 
 ## Autor
 
