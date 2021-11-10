@@ -32,8 +32,8 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Estructura del proyecto
     .
-    ├── Drivers                                # Chrome driver
-    ├── ScreenShot_Folder                      # Capturas de pantallas automáticas
+    ├── Drivers                               # Chrome driver
+    ├── ScreenShot_Folder                     # Capturas de pantallas automáticas
     ├── src                     
     │   ├── main          
     │   └── test/java/pruebas                 # Clase principal que ejecuta la prueba
