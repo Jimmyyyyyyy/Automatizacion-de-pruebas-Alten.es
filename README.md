@@ -12,23 +12,12 @@ Repositorio de la prueba de Automatización de pruebas - Alten.es de Jaime Suár
 * Google Chrome  
 * Git
 
-### Instalación 🔧
+### Lanzar la aplicación
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 _Dí cómo será ese paso_
 
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Estructura del proyecto
     .
@@ -41,6 +30,10 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
     ├── _PruebaTecnica_auto_Selenium.docx     # Respuesta preguntas teóricas
     ├── pom.xml                               # Archivo de configuración Modelo Base Page Object 
     └── README.md
+
+
+## Capturas
+
 
 
 ## Autor
