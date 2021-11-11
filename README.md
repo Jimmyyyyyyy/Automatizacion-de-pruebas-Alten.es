@@ -33,7 +33,7 @@ _Dí cómo será ese paso_
 
 
 ## Capturas
-
+![alt text](https://github.com/Jimmyyyyyyy/Automatizacion-de-pruebas-Alten.es/tree/master/ScreenShot_Folder/screenshot_Test-375051651.png)
 
 
 ## Autor
