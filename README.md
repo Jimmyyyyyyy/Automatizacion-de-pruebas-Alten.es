@@ -14,9 +14,7 @@ Repositorio de la prueba de Automatización de pruebas - Alten.es de Jaime Suár
 
 ### Lanzar la aplicación
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+_Una vez instalados los requisitos solo tendremos que lanzar la aplicación o click derecho en la clase Test_Drivers y pulsar Run as: JUnit Test._
 
 
 ## Estructura del proyecto
@@ -33,7 +31,7 @@ _Dí cómo será ese paso_
 
 
 ## Capturas
-![Alt text](relative/path/to/img.jpg?raw=true "screenshot_Test-375051651.png")
+
 
 
 ## Autor
