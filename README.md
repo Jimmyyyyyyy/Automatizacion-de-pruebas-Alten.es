@@ -7,7 +7,7 @@ Repositorio de la prueba de Automatización de pruebas - Alten.es de Jaime Suár
 * Eclipse
 * Java 
 * Maven
-* Junit
+* JUnit
 * Selenium 
 * Google Chrome  
 * Git
