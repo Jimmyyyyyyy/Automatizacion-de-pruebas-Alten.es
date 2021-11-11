@@ -39,7 +39,7 @@ _Test realizado sin errores._
 
 ![](ScreenShot_Folder/screenshot_Test2050007909.png)
 
-![](screenshot_Test741109266.png)
+![](ScreenShot_Folder/screenshot_Test741109266.png)
 
 
 ## Autor
