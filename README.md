@@ -32,7 +32,7 @@ _Una vez instalados los requisitos solo tendremos que lanzar la aplicación o cl
 
 ## Capturas
 
-
+![alt text](https://github.com/[Jimmyyyyyyy]/[Automatizacion-de-pruebas-Alten.es]/ScreenShot_Folder/[master]/image.jpg?raw=true)
 
 ## Autor
 
