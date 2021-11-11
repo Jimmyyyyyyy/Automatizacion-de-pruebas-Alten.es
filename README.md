@@ -32,7 +32,12 @@ _Una vez instalados los requisitos solo tendremos que lanzar la aplicación o cl
 
 ## Capturas
 
+_Test realizado sin errores._
 ![](ScreenShot_Folder/SuccessfulTest.PNG)
+![](ScreenShot_Folder/screenshot_Test-375051651.png)
+![](ScreenShot_Folder/screenshot_Test2050007909.png)
+![](screenshot_Test741109266.png)
+
 
 ## Autor
 
